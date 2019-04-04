@@ -100,7 +100,7 @@ module.exports = {
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@cara', // Twitter Username
-  ogSiteName: 'cara', // Facebook Site Name
+  ogSiteName: 'theo', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
 
   // Manifest and Progress color

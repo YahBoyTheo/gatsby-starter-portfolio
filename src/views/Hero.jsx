@@ -16,7 +16,7 @@ const Hero = ({ children, offset }) => (
   <>
     <Divider speed={0.2} offset={offset}>
       <UpDown>
-        <SVG icon="gear" hiddenMobile width={48} fill={colors['blue-dark']} left="10%" top="20%" />
+        <SVG icon="gear" hiddenMobile width={48} fill={colors['grey-darkest']} left="10%" top="20%" />
         <SVG icon="gear" width={48} fill={colors['blue-dark']} left="60%" top="70%" />
         <SVG icon="gear" width={6} fill={colors['grey-darker']} left="60%" top="15%" />
       </UpDown>

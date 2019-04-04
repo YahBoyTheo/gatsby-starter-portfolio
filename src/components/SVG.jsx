@@ -10,7 +10,7 @@ const Wrapper = styled.svg`
   ${tw`absolute`};
   stroke: currentColor;
   ${rotateAnimation('60s')};
-  ${props => props.hiddenMobile && hidden};
+  ${props => props.hiddenMobile && hidden}; 
   color: ${props => props.stroke};
   width: ${props => props.svgWidth};
   fill: ${props => props.fill};

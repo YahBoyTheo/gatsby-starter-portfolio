@@ -31,7 +31,7 @@ const Index = () => (
     <Parallax pages={2}>
       <Hero offset={0}>
         <BigTitle>
-          Hi, <br /> I'm Theo.
+          Hi, I'm Theo<span>.</span>
         </BigTitle>
         <Subtitle>
           A Web Developer and Project Manager specialising in Internal Search.

@@ -17,7 +17,7 @@ module.exports = {
   userTwitter: '@theo_tatton', // Twitter Username
   ogSiteName: 'theo', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
-  googleAnalyticsID: 'UA-47519312-5',
+  googleAnalyticsID: 'UA-137728228-1',
 
   // Manifest and Progress color
   themeColor: tailwind.colors.blue,
